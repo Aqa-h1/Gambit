@@ -1,0 +1,17 @@
+div {
+    text-align: center;
+    color: white;
+    position: top center;
+}
+
+body {
+    background-image: url("a3128b05-ca05-4e8d-8ef5-424186240a4b.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 400px;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
